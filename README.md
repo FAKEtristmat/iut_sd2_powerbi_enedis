@@ -47,5 +47,5 @@ Le tableau de bord utilise les données provenant de :
 ## Auteur
 
 - **prenom** : Tristan Arnaud
-- **Organisation** : GreenTech Solutions ou Dircofi
+- **Organisation** : GreenTech Solutions
 
