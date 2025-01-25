@@ -10,6 +10,12 @@ Ce projet Power BI a été développé dans le but de fournir une visualisation 
 
 ## Sources de données
 
+Pour récupérer les données, nous avons utilisé deux API disponibles sur le site `Data.ademe.fr`. Ces API fournissent des informations sur les logements **existants** et **neufs** du département de Loir-et-Cher. Nous avons ensuite sélectionné les variables nécessaires à notre analyse.
+
+### Liens API :
+- [Logements Existants](https://data.ademe.fr/datasets/dpe-v2-logements-existants/api-doc)
+- [Logements Neufs](https://data.ademe.fr/datasets/dpe-v2-logements-neufs/api-doc)
+
 Le tableau de bord utilise les données provenant de :
 - **adresse-41** : Répertorie tout les logements avec leurs localisation.
 - **Logement existants** Répertorie les logements existants avec des données.
