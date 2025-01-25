@@ -19,7 +19,7 @@ Pour récupérer les données, nous avons utilisé deux API disponibles sur le s
 Le tableau de bord utilise les données provenant de :
 - **adresse-41** : Répertorie tout les logements avec leurs localisation.
 - **Logement existants** Répertorie les logements existants avec des données.
-- - **Logement neufs** Répertorie les logements neufs avec des données.
+- **Logement neufs** Répertorie les logements neufs avec des données.
 
 ## Navigation dans le tableau de bord
 
