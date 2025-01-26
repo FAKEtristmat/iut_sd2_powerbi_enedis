@@ -1,5 +1,6 @@
 # iut_sd2_powerbi_enedis
-Vous devez avoir les autorisations RLS pour acceder au lien du projet : https://app.powerbi.com/links/GFTrntmu3S?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare&bookmarkGuid=1bae7264-daf6-4a2b-bf19-ec76345f0012
+-Vous devez avoir les autorisations RLS pour acceder au lien du projet : https://app.powerbi.com/links/GFTrntmu3S?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare&bookmarkGuid=1bae7264-daf6-4a2b-bf19-ec76345f0012
+
 Ce projet Power BI a été développé dans le but de fournir une visualisation claire et interactive des données liées à **L'energie transmise par Enedis**. Le tableau de bord permet d'explorer des données clés, d'identifier des tendances et de faciliter la prise de décision basée sur les données.
 
 ## Fonctionnalités principales
