@@ -23,8 +23,8 @@ Le tableau de bord utilise les données provenant de :
 
 ## Navigation dans le tableau de bord
 
-1. **Page d'accueil** : Choix Pages.
-2. **Pages thématiques** : Visualisations organisées par catégorie (neuf ou existant).
+1. **Page d'accueil** : Choix Pages, Contexte.
+2. **Pages thématiques** : Visualisations organisées par catégorie (neuf ou existant ou comparaison).
 
 
 ## Technologies utilisées
@@ -52,7 +52,7 @@ Le tableau de bord utilise les données provenant de :
 
 ## Auteur
 
-- **prenom** : Tristan Arnaud
+- **prenom** : Tristan, Arnaud
 - **Organisation** : GreenTech Solutions
 
 ** Lien projet
