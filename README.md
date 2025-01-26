@@ -48,7 +48,8 @@ Le tableau de bord utilise les données provenant de :
    - Naviguez à travers les pages en utilisant le menu ou les onglets en bas.
    - Utilisez les filtres pour personnaliser votre vue.
 
-
+*LIEN VIDEO
+https://youtu.be/W6DzU_dJbQM
 
 
 ## Auteur
